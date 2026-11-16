@@ -1,16 +1,23 @@
-# firebaseapp
+# Verde – Plant Identification App
 
-A new Flutter project.
+Verde is a mobile application developed using Flutter and Dart to help users discover and identify plants.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Plant identification
+- Plant search
+- Discover plants and their benefits
+- Save favorite plants
+- View plant information and uses
+- Chatbot assistance
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase
+- Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Objective
+
+The goal of Verde is to make plant discovery easier and provide useful information about plants, their benefits, and their uses.
